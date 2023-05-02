@@ -726,7 +726,6 @@ vendor/lib64/libdisplayqos.so|aa222f4c1a2d2fb60944c44f8a82621d6bc75184
 vendor/lib64/libdisplayskuutils.so|37e4d543c696a5c9f0c1b44fd7299a0bc7dba5e8
 vendor/lib64/libdpps.so|c0a095d4230ed48c80c54f8ad1fcb28764a73d97
 vendor/lib64/libhdr_tm.so|7954c5cd5c0b23fe8d0609361c22d24c59f1448b
-vendor/lib64/libmm-hdcpmgr.so|1d319df7c3f784cac6edf48aad3f379f90c2c6e5
 vendor/lib64/libqdcm-mode-parser.so|207143ab4dda0886bde2a0333d7a1bcd7af6f8e1
 vendor/lib64/libqrtrclient.so|2474a708487c269c04afffbf755fff1686c6011c
 vendor/lib64/libqseed3.so|d62c37baf259250cadfcff8734e82054ed87bb96
@@ -1609,6 +1608,7 @@ vendor/lib/libwfduibcsrcinterface_proprietary.so
 vendor/lib/libwfdutils_proprietary.so
 vendor/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
 vendor/lib/vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl.so
+vendor/lib64/libmm-hdcpmgr.so
 vendor/lib64/libwfddisplayconfig_proprietary.so
 vendor/lib64/libwfdhdcpcp.so
 vendor/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so
